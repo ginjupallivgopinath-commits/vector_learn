@@ -1,6 +1,6 @@
-# 🚀 Build • Break • Learn
+# 🚀 Learn
 
-Welcome to **Build • Break • Learn**!
+Welcome to Learn!
 
 This repository is my personal engineering lab where I explore **Databricks**, **Apache Spark**, **AI**, **Machine Learning**, and **Data Engineering** by building real projects, running experiments, and documenting what I learn along the way.
 
